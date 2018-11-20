@@ -1,0 +1,19 @@
+{
+  "name": "serverless_azure_host_json",
+  "version": "0.5.0",
+  "description": "serverless plugin to copy host.json for azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "azure",
+    "functions"
+  ],
+  "author": "daylilyfield",
+  "license": "MIT",
+  "peerDependencies": {
+    "serverless-azure-functions": "*"
+  }
+}
