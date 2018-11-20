@@ -1,5 +1,5 @@
 {
-  "name": "serverless_azure_host_json",
+  "name": "serverless-azure-host-json",
   "version": "0.5.0",
   "description": "serverless plugin to copy host.json for azure",
   "main": "index.js",

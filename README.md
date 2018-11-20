@@ -1,11 +1,11 @@
-# serverless_azure_host_json
+# serverless-azure-host-json
 
-This plugin copies `host.json` for [serverless_azure_functions](https://github.com/serverless/serverless-azure-functions)
+This plugin copies `host.json` for [serverless-azure-functions](https://github.com/serverless/serverless-azure-functions)
 
 ## How to Install
 
 ```bash
-$ npm install serverless_azure_host_json
+$ npm install serverless-azure-host-json
 ```
 
 ## How to Customize
